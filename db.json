@@ -1,0 +1,58 @@
+{
+  "superheroes": [
+    {
+      "id": "1",
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": "2",
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": "3",
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "id": 1728370373000,
+      "name": "hero",
+      "alterEgo": ""
+    },
+    {
+      "id": 1728370402056,
+      "name": "inuddin",
+      "alterEgo": ""
+    },
+    {
+      "id": 1728370958079,
+      "name": "inu",
+      "alterEgo": ""
+    },
+    {
+      "id": 1728370994342,
+      "name": "sdg",
+      "alterEgo": ""
+    },
+    {
+      "id": 1728376182736,
+      "name": "egfd",
+      "alterEgo": ""
+    }
+  ],
+  "friends": [
+    {
+      "id": "1",
+      "name": "raju"
+    },
+    {
+      "id": "2",
+      "name": "ramu"
+    },
+    {
+      "id": "3",
+      "name": "sham"
+    }
+  ]
+}
